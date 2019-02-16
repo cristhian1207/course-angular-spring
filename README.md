@@ -1,3 +1,13 @@
+# Commands
+ng new <<project name>>
+ng generate component <<component name>>
+ng generate service <<component name>>
+ng serve
+ng lint
+ng build
+ng test
+ng e2e
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
