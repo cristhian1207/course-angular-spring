@@ -1,12 +1,12 @@
 # Commands
-ng new <<project name>>
-ng generate component <<component name>>
-ng generate service <<component name>>
-ng serve
-ng lint
-ng build
-ng test
-ng e2e
+ng new [project name]  
+ng generate component [component name]  
+ng generate service [component name]  
+ng serve  
+ng lint  
+ng build  
+ng test  
+ng e2e  
 
 # Todo
 
