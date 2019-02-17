@@ -1,5 +1,6 @@
 # Commands
 ng new [project name]  
+ng generate module app-routing --flat --module=app
 ng generate component [component name]  
 ng generate service [component name]  
 ng serve  
